@@ -2,10 +2,12 @@
 
 ## Reference
 
+- [More than 15 jupyter notebooks to learn Numpy](https://www.kaggle.com/getting-started/115421)
+- <https://github.com/KeithGalli/NumPy> [](https://www.youtube.com/watch?v=GB9ByFAIAH4)
+- <https://github.com/mdkearns/scientific-computing-libraries>
 - <https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb>
 - <https://github.com/rougier/from-python-to-numpy>
 - <https://github.com/ddbourgin/numpy-ml>
-- <https://github.com/KeithGalli/NumPy> [](https://www.youtube.com/watch?v=GB9ByFAIAH4)
 
 ### What is NumPy?
 
@@ -23,6 +25,11 @@
     pre-commit run -a
     # launch notebook
     jupyter notebook
+
+## Code
+
+- [tutorial.ipynb](./tutorial.ipynb)
+- [essentials.ipynb](./essentials.ipynb) [](https://www.youtube.com/watch?v=DcfYgePyedM)
 
 ## Quize
 
